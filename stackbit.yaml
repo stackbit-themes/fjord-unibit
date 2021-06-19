@@ -19,7 +19,7 @@ stackbit_banner:
   show_banner: true
   name: Fjord
   create_url: 'https://app.stackbit.com/create?theme=fjord'
-  github_url: 'https://github.com/stackbit-themes/fjord-unibit'
+  github_url: 'https://github.com/stackbit/stackbit-theme-fjord'
 sourceMapping:
   - source:
       fieldPath: author.name
